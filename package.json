@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/leewalkergm/jarvis#readme",
   "dependencies": {
-    "nest-thermostat": "^0.2.1"
+    "unofficial-nest-api": "^0.1.4"
   }
 }
